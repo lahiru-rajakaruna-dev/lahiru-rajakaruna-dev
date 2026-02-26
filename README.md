@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 > **Transforming raw ideas into high-performance digital products. Focused on scalability, engineering velocity, and technical ROI.**
 
+<!-- 
 ---
 
 ### 📈 Executive Summary of Impact
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 * **National Excellence:** Ranked **11th in Sri Lanka** (Technology Stream), top 0.01% analytical aptitude.
 
 ---
+-->
 
 ### 🛠️ Technical Arsenal
 
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
 ### 🧪 Current Focus at BLAZE
 
 
-* **The Vision-to-Launch Blueprint:** Developing high-velocity workflows for non-technical founders.
+<!-- * **The Vision-to-Launch Blueprint:** Developing high-velocity workflows for non-technical founders. -->
 * **Performance Engineering:** Optimizing edge computing via Cloudflare Workers for global low-latency apps.
 * **Clean Code Evangelism:** Implementing advanced refactoring patterns (SOLID, DRY) to eliminate technical debt early.
 
